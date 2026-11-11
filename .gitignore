@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+publish_gitee.py
+publish_github.sh
+*-article.html
+make_cover.py
+cover-900x383.png
